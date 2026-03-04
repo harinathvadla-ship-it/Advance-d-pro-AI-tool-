@@ -184,4 +184,18 @@ function premium(){alert("Upgrade to Premium for Unlimited AI 🚀");}
 
 </body>
 </html>
-
+{
+  "name": "gemini-ai-app",
+  "version": "1.0.0",
+  "description": "Gemini 2.5 AI App",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
