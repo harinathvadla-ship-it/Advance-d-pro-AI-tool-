@@ -1,0 +1,1 @@
+# Gemini 2.5 AI App  This is a Node.js + Express app using Google Gemini 2.5 API.  Features: - AI Chat - Voice Input - Camera Access - Chat History - Privacy Policy - Premium Option  Deployed on Render.
